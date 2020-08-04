@@ -17,7 +17,7 @@ Publicar um conceito estudado no dia, durante 30 dias, à partir de 04/08/2020.
 <h1>📌 Regras gerais 📌</h1>
 
 - Realizar uma publicação por dia
-- Compartilhar nas redes sociaii usando a hastag #30DiasDeDicas
+- Compartilhar nas redes sociais usando a hastag #30DiasDeDicas
 - A publicação deve ser realizada até às 23:59, horário de Brasília.
 
 <h1>✨ Regra de ouro ✨</h1>
