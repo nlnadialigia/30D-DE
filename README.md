@@ -24,6 +24,10 @@ Publicar um conceito estudado no dia, durante 30 dias, à partir de 04/08/2020.
 
 - Para me estimular um pouquinho mais, caso eu não faça a publicação, a primeira pessoa que apontar na última publicação receberá R$25,00. 
 
+<h1>🚀 Dia 01/30 - Gitignore 🚀</h1>
+
+https://www.linkedin.com/pulse/gitignore-nadia-ligia
+
 ---
 
 Desenvolvido 💖 por Nádia Ligia
