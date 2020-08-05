@@ -29,5 +29,12 @@ Publicar um conceito estudado no dia, durante 30 dias, à partir de 04/08/2020.
 https://www.linkedin.com/pulse/gitignore-nadia-ligia
 
 ---
+<h1>🚀 Dia 02/30 - Linear-gradient() 🚀</h1>
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient
+
+https://www.w3schools.com/css/css3_gradients.asp
+
+---
 
 Desenvolvido 💖 por Nádia Ligia
