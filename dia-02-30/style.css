@@ -25,7 +25,7 @@ h1{
     line-height: 10rem;
     padding: 2rem;
     text-align: center;
-    background: linear-gradient(to bottom,  var(--secondary) 50%, var(--primary) 50%);
+    background: linear-gradient(to top, var(--primary) 50%, var(--secondary) 50%);
     color: var(--text-color);
     align-self: center;
 }

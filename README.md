@@ -31,9 +31,9 @@ https://www.linkedin.com/pulse/gitignore-nadia-ligia
 ---
 <h1>🚀 Dia 02/30 - Linear-gradient() 🚀</h1>
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient
+https://www.linkedin.com/pulse/linear-gradient-nadia-ligia
 
-https://www.w3schools.com/css/css3_gradients.asp
+[Projeto da aula 02](./dia-02-30)
 
 ---
 
