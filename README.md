@@ -49,6 +49,14 @@ https://www.linkedin.com/pulse/imagens-nadia-ligia
 [Projeto do dia 03](./dia-03-30)
 
 <br>
+
+<h1>🚀 Dia 04/30 - Modal 🚀</h1>
+
+https://www.linkedin.com/pulse/modal-nadia-ligia
+
+[Projeto do dia 04](./dia-04-30)
+
+<br>
 <br>
 
 ---
