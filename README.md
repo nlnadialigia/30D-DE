@@ -62,6 +62,12 @@ https://www.linkedin.com/pulse/modal-nadia-ligia
 
 https://www.linkedin.com/pulse/extens%25C3%25B5es-vscode-nadia-ligia
 
+<br>
+
+<h1>🚀 Dia 06/30 - Refatorar 🚀</h1>
+
+https://www.linkedin.com/pulse/refatora%25C3%25A7%25C3%25A3o-nadia-ligia
+
 
 <br>
 <br>
