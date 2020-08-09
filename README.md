@@ -57,6 +57,13 @@ https://www.linkedin.com/pulse/modal-nadia-ligia
 [Projeto do dia 04](./dia-04-30)
 
 <br>
+
+<h1>🚀 Dia 05/30 - Extensões VSCODE 🚀</h1>
+
+https://www.linkedin.com/pulse/extens%25C3%25B5es-vscode-nadia-ligia
+
+
+<br>
 <br>
 
 ---
