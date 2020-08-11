@@ -68,6 +68,14 @@ https://www.linkedin.com/pulse/extens%25C3%25B5es-vscode-nadia-ligia
 
 https://www.linkedin.com/pulse/refatora%25C3%25A7%25C3%25A3o-nadia-ligia
 
+<br>
+
+<h1>🚀 Dia 07/30 - Imagens Randômicas 🚀</h1>
+
+https://www.linkedin.com/pulse/imagens-rand%25C3%25B4micas-nadia-ligia/?trackingId=TM6N6XhaQ7eDpwE3JlwCew%3D%3D
+
+[Projeto do dia 07](./dia-07-30)
+
 
 <br>
 <br>

@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: black;
+    width: 100vw;
+}
+
+.images{
+    width: 80vw;
+    height: 80vh;
+    background: url(https://source.unsplash.com/random);
+    background-repeat: no-repeat;
+    background-position: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10vh;
+
+    border: 5px solid goldenrod;
+    box-shadow: 10px 5px 5px red;
+    
+}
