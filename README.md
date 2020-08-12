@@ -76,6 +76,23 @@ https://www.linkedin.com/pulse/imagens-rand%25C3%25B4micas-nadia-ligia/?tracking
 
 [Projeto do dia 07](./dia-07-30)
 
+<br>
+
+<h1>🚀 Dia 08/30 - Imagens Randômicas 🚀</h1>
+
+https://www.linkedin.com/pulse/puppeteer-nadia-ligia
+
+- Para rodar o puppeteer:
+
+```js
+npm i puppeteer
+# or "yarn add puppeteer"
+```
+
+- Github da lib: https://github.com/puppeteer/puppeteer.git
+
+[Projeto do dia 08](./dia-08-30)
+
 
 <br>
 <br>
