@@ -93,6 +93,11 @@ npm i puppeteer
 
 [Projeto do dia 08](./dia-08-30)
 
+<br>
+
+<h1>🚀 Dia 09/30 - Imagens Randômicas 🚀</h1>
+
+https://www.linkedin.com/pulse/descansar-nadia-ligia
 
 <br>
 <br>
