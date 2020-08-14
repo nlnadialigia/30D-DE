@@ -1,0 +1,49 @@
+:root{
+    --header-color: #182C61;
+    --letter-title: #F8EFBA;
+    --bg-color: #D6A2E8;
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calendar{
+    width: 700px;
+    margin: 100px auto;
+    background: var(--bg-color);
+    color: var(--header-color);
+    display: block;
+    border: 5px solid var(--letter-title);
+}
+
+h2{
+    background: var(--header-color);
+    color: var(--letter-title);
+    font-size: 36px;
+    line-height: 46px;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 12px ;
+    text-align: center;
+}
+
+table{
+    width: 100%;
+    border-spacing: 0;
+    border: 5px solid var(--letter-title);
+}
+
+td,
+th{
+    justify-content: space-between;
+    text-align: center;
+    padding: 5px;
+    border: 2px solid var(--header-color);
+    width: 100px;
+    
+}
+

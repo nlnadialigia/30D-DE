@@ -100,6 +100,14 @@ npm i puppeteer
 https://www.linkedin.com/pulse/descansar-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 10/30 - Table 🚀</h1>
+
+https://www.linkedin.com/pulse/table-nadia-ligia
+
+[Projeto do dia 10](./dia-10-30)
+
+<br>
 <br>
 
 ---
