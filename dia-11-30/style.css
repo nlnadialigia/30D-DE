@@ -1,0 +1,57 @@
+:root{
+    --primary-color: #be2edd;
+    --second-color: #22a6b3;
+    --bg-color: #130f40;
+    --message-color: #f0932b;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #130f40;
+    font-family: 'Russo One', sans-serif;
+}
+
+.content{
+    color: var(--primary-color);
+    width: 30rem;
+    height: 15rem;
+    margin: 10rem auto;
+
+    text-align: center;
+}
+
+.content div{
+    font-size: 3rem;
+}
+
+input,
+button{
+    width: 85%;
+    height: 3.5rem;
+    font-size: 3rem;
+    outline: groove var(--second-color) 0.2rem;
+    text-transform: uppercase;
+    text-align: center;
+    color:var(--primary-color);
+    background-color: #130f40;
+    font-weight: bold;
+    margin: 1rem auto;
+    box-shadow: 0.5rem 0.5rem 0.5rem ;
+}
+
+button{
+    width: 50%;
+    font-size: 2.5rem;
+    cursor: pointer;
+}
+
+.content p{
+    padding: 1.2rem;
+    font-size: 3rem;
+    color: var(--message-color);
+}
+

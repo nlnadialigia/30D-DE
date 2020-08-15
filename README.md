@@ -108,6 +108,15 @@ https://www.linkedin.com/pulse/table-nadia-ligia
 [Projeto do dia 10](./dia-10-30)
 
 <br>
+
+<h1>🚀 Dia 11/30 - Table 🚀</h1>
+
+https://www.linkedin.com/pulse/confirm-nadia-ligia
+
+[Projeto do dia 11](./dia-11-30)
+
+
+<br>
 <br>
 
 ---
