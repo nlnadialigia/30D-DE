@@ -78,7 +78,7 @@ https://www.linkedin.com/pulse/imagens-rand%25C3%25B4micas-nadia-ligia/?tracking
 
 <br>
 
-<h1>🚀 Dia 08/30 - Imagens Randômicas 🚀</h1>
+<h1>🚀 Dia 08/30 - Puppeteer🚀</h1>
 
 https://www.linkedin.com/pulse/puppeteer-nadia-ligia
 
@@ -95,7 +95,7 @@ npm i puppeteer
 
 <br>
 
-<h1>🚀 Dia 09/30 - Imagens Randômicas 🚀</h1>
+<h1>🚀 Dia 09/30 - Descansar 🚀</h1>
 
 https://www.linkedin.com/pulse/descansar-nadia-ligia
 
@@ -109,7 +109,7 @@ https://www.linkedin.com/pulse/table-nadia-ligia
 
 <br>
 
-<h1>🚀 Dia 11/30 - Table 🚀</h1>
+<h1>🚀 Dia 11/30 - Confirm () 🚀</h1>
 
 https://www.linkedin.com/pulse/confirm-nadia-ligia
 
