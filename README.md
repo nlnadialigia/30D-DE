@@ -115,6 +115,16 @@ https://www.linkedin.com/pulse/confirm-nadia-ligia
 
 [Projeto do dia 11](./dia-11-30)
 
+<br>
+
+<h1>🚀 Dia 12/30 - Nome das funções 🚀</h1>
+
+
+
+[Projeto do dia 12](./dia-12-30)
+
+https://www.linkedin.com/pulse/nome-das-fun%25C3%25A7%25C3%25B5es-nadia-ligia
+
 
 <br>
 <br>
