@@ -28,6 +28,7 @@ let lockCard = false
 function flipCard() {
     if(lockCard) return false
     this.classList.add('flip')
+    this.removeEventListener("click", flipCard)
 
     if(!firstCard){
         firstCard = this
@@ -50,6 +51,8 @@ function disableCards() {
     setTimeout(()=> {
         firstCard.classList.remove('flip')
         secondCard.classList.remove('flip')
+        firstCard.addEventListener("click", flipCard)
+        secondCard.addEventListener("click", flipCard)
 
         resetCards()
     }, 1000)
