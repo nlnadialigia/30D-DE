@@ -119,11 +119,17 @@ https://www.linkedin.com/pulse/confirm-nadia-ligia
 
 <h1>🚀 Dia 12/30 - Nome das funções 🚀</h1>
 
-
+https://www.linkedin.com/pulse/nome-das-fun%25C3%25A7%25C3%25B5es-nadia-ligia
 
 [Projeto do dia 12](./dia-12-30)
 
-https://www.linkedin.com/pulse/nome-das-fun%25C3%25A7%25C3%25B5es-nadia-ligia
+<br>
+
+<h1>🚀 Dia 13/30 - Jogo da memória 🚀</h1>
+
+https://www.linkedin.com/pulse/jogo-da-mem%25C3%25B3ria-nadia-ligia
+
+[Projeto do dia 13](./dia-13-30)
 
 
 <br>

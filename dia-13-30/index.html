@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ptbr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Memory Game</title>
+  <link href="https://fonts.googleapis.com/css2?family=Suez+One&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <div id="game" class="active">
+    <div id="title">
+    <p>Jogo da Memória</p>
+    </div>
+  
+    <div class="restart">
+      <button>
+        <i onclick="initialPage()" title="Reiniciar"> Novo</i>
+      </button>
+    </div>
+    
+    <div id="cardboard"></div>
+  </div>
+
+  <div id="id03" class="modal">
+    <div class="title">
+      <p>Jogo da Memória</p>
+    </div>
+
+    <div class="white">
+      <button 
+        class="btn blue round" 
+        onclick="document.getElementById('id03').style.display='none'">
+        Iniciar
+      </button>
+    </div>
+  </div>
+
+  
+
+  <script src="/scripts/modal.js"></script>
+  <script src="/scripts/initial.js"></script>
+  <script src="/scripts/main.js"></script>
+</body>
+</html>
