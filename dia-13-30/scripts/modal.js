@@ -9,8 +9,6 @@ modalOverlay.addEventListener('click', function () {
 
 newGame.addEventListener('click', function () {
     cards.forEach(card => card.classList.remove('flip'))
-    gameStart.classList.add('active')
-    document.getElementById('id03').style.display='block'
 })
 
 

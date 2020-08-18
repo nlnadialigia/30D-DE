@@ -67,7 +67,7 @@ body{
 
 .memory-card{
     width: calc(25% - 0.8rem);
-    height: 33%;
+    height: 30%;
     margin: 0.4rem;
     transform-style: preserve-3d;
     transition: 0.8s;
