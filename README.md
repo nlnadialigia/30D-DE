@@ -131,6 +131,12 @@ https://www.linkedin.com/pulse/jogo-da-mem%25C3%25B3ria-nadia-ligia
 
 [Projeto do dia 13](./dia-13-30)
 
+<br>
+
+<h1>🚀 Dia 14/30 - Jogo da memória 🚀</h1>
+
+https://www.linkedin.com/pulse/sites-nadia-ligia
+
 
 <br>
 <br>

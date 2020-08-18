@@ -3,6 +3,8 @@
     --body-color: black;
     --title-color: #d3d3f7;
     --bg-modal: white;
+
+    font-size: 60%;
 }
 
 *{
@@ -12,6 +14,7 @@
 }
 
 body{
+    width: 100vw;
     height: 100vh;
     display: flex;
     flex-direction: column;
@@ -23,15 +26,17 @@ body{
 }
 
 #title{
+    width: 80%;
+    text-align: center;
+    margin: 1.5rem auto;
     font-size: 3rem;
     font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 0.8rem;
-    margin-top: 3rem;
 }
 
 .restart{
-    margin: 1.5rem 0 0.5rem 0;
+    margin: 3rem auto;
     display: flex;
     justify-content: center;
 }
@@ -40,34 +45,35 @@ body{
 .white button{
     background: var(--bg-color);
     color: var(--title-color);
+    font-family: 'Suez One', serif;
     font-size: 1.5rem;
     font-weight: bold;
-    width: 6rem;
-    height: 3rem;
+    align-items: center;
+    letter-spacing: 0.2rem;
     text-transform: uppercase;
+    width: 10rem;
+    height: 3rem;
+    margin: auto;
     cursor: pointer;
 }
 
-
 #cardboard{
-    width: 40rem;
-    height: 30rem;
+    width: 100vw;
+    height: 45vh;
     display: flex;
     flex-wrap: wrap;
-    margin: 1.2rem auto;
+    margin: 0.5rem auto;
 }
 
-
 .memory-card{
-    width: calc(25% - 10px);
+    width: calc(25% - 0.8rem);
     height: 33%;
-    margin: 0.3rem;
+    margin: 0.4rem;
     transform-style: preserve-3d;
-    transition: 0.3s;
+    transition: 0.8s;
     position: relative;
     cursor: pointer;
 }
-
 
 .memory-card:active{
     transform: scale(0.97);
@@ -90,28 +96,24 @@ body{
     transform: rotateY(180deg);
 }
 
-
 #game.active{
     opacity: 0;
 }
 
 .modal{
     top: 110px;
-    left: 22%;
     width: 39.4rem;
     height: 200px;
     right: auto;
     position: fixed;
     opacity: 1;
-
     background: white;
     color: var(--bg-color);
-
     border-radius: 8px;
 }
 
 .container{
-    margin: 0.8rem;
+    margin: 2rem;
     font-size: 1.5rem;
     color: var(--bg-color);
     text-align: center ;
@@ -121,29 +123,14 @@ body{
     display: flex;
     justify-content: center;
     margin-bottom: 2rem;
-
-    
 }
 
 .title{
     font-size: 3rem;
     text-align: center;
-    margin: 1.2rem;
+    margin: 3rem;
     text-transform: uppercase;
     letter-spacing: 0.5rem;
-}
-
-#id02{
-    height: 40%;
-}
-
-#id02 button{
-    width: 15rem;
-    height: 6rem;
-    background: #000;
-    color: var(--title-color);
-    border-radius: 1.2rem;
-    
 }
 
 @media(max-width:1000px){

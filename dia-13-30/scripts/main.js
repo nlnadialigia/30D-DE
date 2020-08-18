@@ -75,4 +75,22 @@ function resetCards(isMatch = false) {
     lockCard = false
 }
 
+const cardMatch = document.getElementsByClassName('flip')
+let cardFound = 0
+
+(function gameOver() {
+    for (let i = 0; i < cards.length; i++) {
+        if (cardMatch) {
+            cardFound = cardFound+1
+        }
+        return cardFound
+    }
+
+    if (cardFound == cards.length) {
+        gameStart.classList.add('active')
+        document.getElementById('id03').style.display='block'
+    }
+})()
+
 cards.forEach(card => card.addEventListener('click', flipCard))
+
