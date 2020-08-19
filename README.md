@@ -137,6 +137,13 @@ https://www.linkedin.com/pulse/jogo-da-mem%25C3%25B3ria-nadia-ligia
 
 https://www.linkedin.com/pulse/sites-nadia-ligia
 
+<br>
+
+<h1>🚀 Dia 15/30 - Jogo da memória 🚀</h1>
+
+https://www.linkedin.com/pulse/cubo-nadia-ligia
+
+[Projeto do dia 15](./dia-15-30)
 
 <br>
 <br>

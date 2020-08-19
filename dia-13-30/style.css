@@ -41,8 +41,7 @@ body{
     justify-content: center;
 }
 
-.restart button,
-.white button{
+button{
     background: var(--bg-color);
     color: var(--title-color);
     font-family: 'Suez One', serif;
@@ -133,16 +132,53 @@ body{
     letter-spacing: 0.5rem;
 }
 
-@media(max-width:1000px){
+@media (min-width: 700px){
+    #title{
+        font-size: 3.8rem;
+    }
+    
+    #cardboard{
+        /* width: 80rem; */
+        max-width: 60rem;
+        min-height: 50rem;
+    }
+
     .modal{
-        left: 16%;
-        width: 70%;
-        height: 180px;
-        right: auto; 
+        width: 50rem;
+        min-height: 30rem;
     }
 
     .title{
+        font-size: 5rem;
+    }
+
+    button{
+        width: 15rem;
         font-size: 2.5rem;
-        letter-spacing: 0.2rem;
+        height: 6rem;
+    }
+}
+
+
+@media (min-width: 1100px){
+    #cardboard{
+        /* width: 80rem; */
+        max-width: 80rem;
+        min-height: 60rem;
+    }
+
+    .modal{
+        width: 80rem;
+        min-height: 30rem;
+    }
+
+    .title{
+        font-size: 5rem;
+    }
+
+    button{
+        width: 20rem;
+        font-size: 3rem;
+        height: 8rem;
     }
 }
