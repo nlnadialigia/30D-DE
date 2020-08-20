@@ -146,6 +146,12 @@ https://www.linkedin.com/pulse/cubo-nadia-ligia
 [Projeto do dia 15](./dia-15-30)
 
 <br>
+
+<h1>🚀 Dia 16/30 - Javascript 🚀</h1>
+
+https://www.linkedin.com/pulse/javascript-nadia-ligia
+
+<br>
 <br>
 
 ---
