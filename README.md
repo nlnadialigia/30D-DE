@@ -152,6 +152,12 @@ https://www.linkedin.com/pulse/cubo-nadia-ligia
 https://www.linkedin.com/pulse/javascript-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 17/30 - Javascript 🚀</h1>
+
+https://www.linkedin.com/pulse/compartilhe-nadia-ligia
+
+<br>
 <br>
 
 ---
