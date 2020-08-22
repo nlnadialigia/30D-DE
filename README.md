@@ -158,6 +158,12 @@ https://www.linkedin.com/pulse/javascript-nadia-ligia
 https://www.linkedin.com/pulse/compartilhe-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 18/30 - Readme 🚀</h1>
+
+https://www.linkedin.com/pulse/readme-nadia-ligia
+
+<br>
 <br>
 
 ---
