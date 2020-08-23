@@ -164,6 +164,14 @@ https://www.linkedin.com/pulse/compartilhe-nadia-ligia
 https://www.linkedin.com/pulse/readme-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 19/30 - Jogo da memória 🚀</h1>
+
+https://www.linkedin.com/pulse/jogo-da-velha-nadia-ligia
+
+[Projeto do dia 19](./dia-19-30)
+
+<br>
 <br>
 
 ---
