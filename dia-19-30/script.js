@@ -1,11 +1,12 @@
 let game = [] 
-let board = [] //controla os elementos visuais
-let whoPlay = 0; //0 - jogador e 1 - CPU
+let board = [] 
+let whoPlay = 0; 
 let check
 let playing=true
-let level=2
+let level=1
 let cpuMove=1
-let whoStart=1//fazer random para o jogador inicial ser aleatório
+let whoStart=1
+let move=0
 
 function playCPU() {
     if (playing) {
@@ -17,14 +18,148 @@ function playCPU() {
            }while (game[l][c]!="") {
                game[l][c]="O"
            }
+        }else if (level==2) {
+            //ATAQUE
+            //linhas  
+            if ((game[0][0]=="O")&&(game[0][1]=="O")&&(game[0][2]=="")) {
+                game[0][2]="O"
+            }else if ((game[0][0]=="O")&&(game[0][2]=="O")&&(game[0][1]=="")) {
+                game[0][1]="O"
+            }else if ((game[0][1]=="O")&&(game[0][2]=="O")&&(game[0][0]=="")) {
+                game[0][0]="O"
+            }else
+            if ((game[1][0]=="O")&&(game[1][1]=="O")&&(game[1][2]=="")) {
+                game[1][2]="O"
+            }else if ((game[1][0]=="O")&&(game[1][2]=="O")&&(game[1][1]=="")) {
+                game[1][1]="O"
+            }else if ((game[1][1]=="O")&&(game[1][2]=="O")&&(game[1][0]=="")) {
+                game[1][0]="O"
+            }else
+            if ((game[2][0]=="O")&&(game[2][1]=="O")&&(game[2][2]=="")) {
+                game[2][2]="O"
+            }else if ((game[2][0]=="O")&&(game[2][2]=="O")&&(game[2][1]=="")) {
+                game[2][1]="O"
+            }else if ((game[2][1]=="O")&&(game[2][2]=="O")&&(game[2][0]=="")) {
+                game[2][0]="O"
+            }else
+            //colunas
+            if ((game[0][0]=="O")&&(game[1][0]=="O")&&(game[2][0]=="")) {
+                game[2][0]="O"
+            }else if ((game[0][0]=="O")&&(game[2][0]=="O")&&(game[1][0]=="")) {
+                game[1][0]="O"
+            }else if ((game[1][0]=="O")&&(game[2][0]=="O")&&(game[0][0]=="")) {
+                game[0][0]="O"
+            }else
+            if ((game[0][1]=="O")&&(game[1][1]=="O")&&(game[2][1]=="")) {
+                game[2][1]="O"
+            }else if ((game[0][1]=="O")&&(game[2][1]=="O")&&(game[1][1]=="")) {
+                game[1][1]="O"
+            }else if ((game[1][1]=="O")&&(game[2][1]=="O")&&(game[0][1]=="")) {
+                game[0][1]="O"
+            }else
+            if ((game[0][2]=="O")&&(game[1][2]=="O")&&(game[2][2]=="")) {
+                game[2][2]="O"
+            }else if ((game[0][2]=="O")&&(game[2][2]=="O")&&(game[1][2]=="")) {
+                game[1][2]="O"
+            }else if ((game[1][2]=="O")&&(game[2][2]=="O")&&(game[0][2]=="")) {
+                game[0][2]="O"
+            }else
+            //diagonal 1
+            if ((game[0][0]=="O")&&(game[1][1]=="O")&&(game[2][2]=="")) {
+                game[2][2]
+            }else if ((game[0][0]=="O")&&(game[2][2]=="O")&&(game[1][1]=="")) {
+                game[1][1]
+            }else if ((game[2][2]=="O")&&(game[1][1]=="O")&&(game[0][0]=="")) {
+                game[0][0]
+            }else
+            //diagonal 2
+            if ((game[0][2]=="O")&&(game[1][1]=="O")&&(game[2][0]=="")) {
+                game[2][0]
+            }else if ((game[0][2]=="O")&&(game[2][0]=="O")&&(game[1][1]=="")) {
+                game[1][1]
+            }else if ((game[2][0]=="O")&&(game[1][1]=="O")&&(game[0][2]=="")) {
+                game[0][2]
+            }else
+        
+            //DEFESA
+            //linhas
+            if ((game[0][0]=="X")&&(game[0][1]=="X")&&(game[0][2]=="")) {
+                game[0][2]="O"
+            }else if ((game[0][0]=="X")&&(game[0][2]=="X")&&(game[0][1]=="")) {
+                game[0][1]="O"
+            }else if ((game[0][1]=="X")&&(game[0][2]=="X")&&(game[0][0]=="")) {
+                game[0][0]="O"
+            }else
+            if ((game[1][0]=="X")&&(game[1][1]=="X")&&(game[1][2]=="")) {
+                game[1][2]="O"
+            }else if ((game[1][0]=="X")&&(game[1][2]=="X")&&(game[1][1]=="")) {
+                game[1][1]="O"
+            }else if ((game[1][1]=="X")&&(game[1][2]=="X")&&(game[1][0]=="")) {
+                game[1][0]="O"
+            }else
+            if ((game[2][0]=="X")&&(game[2][1]=="X")&&(game[2][2]=="")) {
+                game[2][2]="O"
+            }else if ((game[2][0]=="X")&&(game[2][2]=="X")&&(game[2][1]=="")) {
+                game[2][1]="O"
+            }else if ((game[2][1]=="X")&&(game[2][2]=="X")&&(game[2][0]=="")) {
+                game[2][0]="O"
+            }else
+            //colunas
+            if ((game[0][0]=="X")&&(game[1][0]=="X")&&(game[2][0]=="")) {
+                game[2][0]="O"
+            }else if ((game[0][0]=="X")&&(game[2][0]=="X")&&(game[1][0]=="")) {
+                game[1][0]="O"
+            }else if ((game[1][0]=="X")&&(game[2][0]=="X")&&(game[0][0]=="")) {
+                game[0][0]="O"
+            }else
+            if ((game[0][1]=="X")&&(game[1][1]=="X")&&(game[2][1]=="")) {
+                game[2][1]="O"
+            }else if ((game[0][1]=="X")&&(game[2][1]=="X")&&(game[1][1]=="")) {
+                game[1][1]="O"
+            }else if ((game[1][1]=="X")&&(game[2][1]=="X")&&(game[0][1]=="")) {
+                game[0][1]="O"
+            }else
+            if ((game[0][2]=="X")&&(game[1][2]=="X")&&(game[2][2]=="")) {
+                game[2][2]="O"
+            }else if ((game[0][2]=="X")&&(game[2][2]=="X")&&(game[1][2]=="")) {
+                game[1][2]="O"
+            }else if ((game[1][2]=="X")&&(game[2][2]=="X")&&(game[0][2]=="")) {
+                game[0][2]="O"
+            }else
+            //diagonal 1
+            if ((game[0][0]=="X")&&(game[1][1]=="X")&&(game[2][2]=="")) {
+                game[2][2]
+            }else if ((game[0][0]=="X")&&(game[2][2]=="X")&&(game[1][1]=="")) {
+                game[1][1]
+            }else if ((game[2][2]=="X")&&(game[1][1]=="X")&&(game[0][0]=="")) {
+                game[0][0]
+            }else
+            //diagonal 2
+            if ((game[0][2]=="X")&&(game[1][1]=="X")&&(game[2][0]=="")) {
+                game[2][0]
+            }else if ((game[0][2]=="X")&&(game[2][0]=="X")&&(game[1][1]=="")) {
+                game[1][1]
+            }else if ((game[2][0]=="X")&&(game[1][1]=="X")&&(game[0][2]=="")) {
+                game[0][2]
+            }else{
+                do{
+                    l=Math.round(Math.random()*2)
+                    c=Math.round(Math.random()*2)
+                }while (game[l][c]!="") {
+                    game[l][c]="O"
+                }
+            }
         }
         check=checkVictory()
+        
         if (check!="") {
             alert(check+" VENCEU")
             playing=false
         }
         updateBoard()
+        move++
         whoPlay=0
+        
     }
 }
 
@@ -119,6 +254,7 @@ function play(p) {
                 playing=false
             }
             updateBoard()
+            move++
             playCPU()
         }
     }
@@ -145,6 +281,7 @@ function updateBoard() {
 function start() {
     playing=true
     cpuMove=1
+    move=0
     game=[
         ["","",""],
         ["","",""],
