@@ -1,0 +1,73 @@
+:root{
+    --bg-color: #2f2519;
+    --text-color: #ff4301;
+    --line-color: #fa7d09;
+    --secondary-color:#4a3f35;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 50rem;
+    font-family: 'Do Hyeon', sans-serif;
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin: 10rem auto;
+    padding: 2rem;
+    text-align: center;
+    border: 0.3rem solid var(--line-color);
+    position: relative;
+}
+
+h1{
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+p{
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+#input{
+    margin: 1.5rem auto;
+    display: none;
+    width: 8rem;
+    height: 3rem;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 0.5rem;
+    border: none;
+    color: var(--secondary-color);
+    font-weight: bold;
+    outline: none;
+}
+
+button{
+    width: 8rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: var(--text-color);
+    cursor: pointer;
+    border-radius: 0.9rem;
+    border: none;
+    outline: none;
+}
+
+.modal{
+    position: absolute;
+    cursor: pointer;
+    top: 10rem;
+    left: 9rem;
+    display: none;
+}
+
+.modal img{
+    width: 35rem;
+}

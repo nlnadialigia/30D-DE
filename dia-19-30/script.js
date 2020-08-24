@@ -3,7 +3,7 @@ let board = []
 let whoPlay = 0; 
 let check
 let playing=true
-let level=1
+let level=2
 let cpuMove=1
 let whoStart=1
 let move=0
@@ -141,12 +141,21 @@ function playCPU() {
                 game[1][1]
             }else if ((game[2][0]=="X")&&(game[1][1]=="X")&&(game[0][2]=="")) {
                 game[0][2]
-            }else{
+            }else
+            if (move<8) {
                 do{
                     l=Math.round(Math.random()*2)
                     c=Math.round(Math.random()*2)
-                }while (game[l][c]!="") {
-                    game[l][c]="O"
+                   }while (game[l][c]!="") {
+                       game[l][c]="O"
+                   }
+            } else {
+                for (let l = 0; l < 3; l++) {
+                    for (let c = 0; c < 3; c++) {
+                        if (game[l][c]=="") {
+                            game[l][c]="O"
+                        }
+                    }
                 }
             }
         }

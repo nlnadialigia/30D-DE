@@ -172,6 +172,14 @@ https://www.linkedin.com/pulse/jogo-da-velha-nadia-ligia
 [Projeto do dia 19](./dia-19-30)
 
 <br>
+
+<h1>🚀 Dia 20/30 - Advinhe o número 🚀</h1>
+
+https://www.linkedin.com/pulse/adivinhe-o-n%25C3%25BAmero-nadia-ligia
+
+[Projeto do dia 20](./dia-20-30)
+
+<br>
 <br>
 
 ---
