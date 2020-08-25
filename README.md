@@ -180,6 +180,12 @@ https://www.linkedin.com/pulse/adivinhe-o-n%25C3%25BAmero-nadia-ligia
 [Projeto do dia 20](./dia-20-30)
 
 <br>
+
+<h1>🚀 Dia 21/30 - E se🚀</h1>
+
+https://www.linkedin.com/pulse/e-se-nadia-ligia
+
+<br>
 <br>
 
 ---
