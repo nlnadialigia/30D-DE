@@ -186,6 +186,14 @@ https://www.linkedin.com/pulse/adivinhe-o-n%25C3%25BAmero-nadia-ligia
 https://www.linkedin.com/pulse/e-se-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 22/30 - Manipulando array🚀</h1>
+
+https://www.linkedin.com/pulse/manipulando-array-nadia-ligia
+
+[Projeto do dia 22](./dia-22-30)
+
+<br>
 <br>
 
 ---
