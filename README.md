@@ -194,6 +194,12 @@ https://www.linkedin.com/pulse/manipulando-array-nadia-ligia
 [Projeto do dia 22](./dia-22-30)
 
 <br>
+
+<h1>🚀 Dia 23/30 - Associação🚀</h1>
+
+https://www.linkedin.com/pulse/associa%25C3%25A7%25C3%25A3o-nadia-ligia
+
+<br>
 <br>
 
 ---
