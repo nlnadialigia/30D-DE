@@ -133,7 +133,7 @@ https://www.linkedin.com/pulse/jogo-da-mem%25C3%25B3ria-nadia-ligia
 
 <br>
 
-<h1>🚀 Dia 14/30 - Jogo da memória 🚀</h1>
+<h1>🚀 Dia 14/30 - Sites 🚀</h1>
 
 https://www.linkedin.com/pulse/sites-nadia-ligia
 
@@ -153,7 +153,7 @@ https://www.linkedin.com/pulse/javascript-nadia-ligia
 
 <br>
 
-<h1>🚀 Dia 17/30 - Javascript 🚀</h1>
+<h1>🚀 Dia 17/30 - Compartilhe 🚀</h1>
 
 https://www.linkedin.com/pulse/compartilhe-nadia-ligia
 
@@ -198,6 +198,14 @@ https://www.linkedin.com/pulse/manipulando-array-nadia-ligia
 <h1>🚀 Dia 23/30 - Associação🚀</h1>
 
 https://www.linkedin.com/pulse/associa%25C3%25A7%25C3%25A3o-nadia-ligia
+
+<br>
+
+<h1>🚀 Dia 24/30 - Manipulando DOM 🚀</h1>
+
+https://www.linkedin.com/pulse/manipulando-dom-nadia-ligia
+
+[Projeto do dia 24](./dia-24-30)
 
 <br>
 <br>

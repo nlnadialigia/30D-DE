@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+
+body{
+    max-width: 40rem;
+    margin: auto;
+}
+
+.question p{
+    font-size: 3rem;
+    font-weight: bold;
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.colors{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.color{
+    padding: 0.5rem 0.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 0.5rem;
+    border: 0.02rem solid black;
+    cursor: pointer;
+}
+
+#board{
+    border: 0.5rem solid black;
+    height: 30rem;
+    margin-top: 2rem;
+}
