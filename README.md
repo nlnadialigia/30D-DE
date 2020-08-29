@@ -208,6 +208,12 @@ https://www.linkedin.com/pulse/manipulando-dom-nadia-ligia
 [Projeto do dia 24](./dia-24-30)
 
 <br>
+
+<h1>🚀 Dia 25/30 - Desafie-se 🚀</h1>
+
+https://www.linkedin.com/pulse/desafie-se-nadia-ligia
+
+<br>
 <br>
 
 ---
