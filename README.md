@@ -214,6 +214,12 @@ https://www.linkedin.com/pulse/manipulando-dom-nadia-ligia
 https://www.linkedin.com/pulse/desafie-se-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 26/30 - Pull Request 🚀</h1>
+
+https://www.linkedin.com/pulse/pull-requests-nadia-ligia
+
+<br>
 <br>
 
 ---
