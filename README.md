@@ -220,6 +220,16 @@ https://www.linkedin.com/pulse/desafie-se-nadia-ligia
 https://www.linkedin.com/pulse/pull-requests-nadia-ligia
 
 <br>
+
+<h1>🚀 Dia 27/30 - CSS 🚀</h1>
+
+https://www.linkedin.com/pulse/pseudo-elementos-css-nadia-ligia
+
+[Projeto do dia 27](./dia-27-30)
+
+<br>
+
+<br>
 <br>
 
 ---
