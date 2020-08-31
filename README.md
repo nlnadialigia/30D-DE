@@ -229,6 +229,13 @@ https://www.linkedin.com/pulse/pseudo-elementos-css-nadia-ligia
 
 <br>
 
+<h1>🚀 Dia 28/30 - Relógio 🚀</h1>
+
+https://www.linkedin.com/pulse/rel%25C3%25B3gio-nadia-ligia
+
+[Projeto do dia 28](./dia-28-30)
+
+
 <br>
 <br>
 
