@@ -8,34 +8,40 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="calculator">
-        <div id="viewfinder">
-            <div class="viewfinder"></div>
-            <div><img src="calculadora.png" alt="Calculadora"></div>
-        </div>
-        <div id="content">
-            <div id="numbers">
-                <div id="num7" class="number">7</div>
-                <div id="num8" class="number">8</div>
-                <div id="num9" class="number">9</div>
-                <div id="num4" class="number">4</div>
-                <div id="num5" class="number">5</div>
-                <div id="num6" class="number">6</div>
-                <div id="num1" class="number">1</div>
-                <div id="num2" class="number">2</div>
-                <div id="num3" class="number">3</div>
-                <div id="num0" class="number">0</div>
-                <div id="num10" class="number">.</div>
-                <div id="num11" class="number">=</div>
-            </div>
-            <div id="operators">
-                <div id="op0" class="operator">/</div>
-                <div id="op1" class="operator">X</div>
-                <div id="op2" class="operator">-</div>
-                <div id="op3" class="operator">+</div>
-            </div>
-        </div>
-    </div>
-    <script src="script.js"></script>
+    <form name="calcform" method="post" action="">
+        <fieldset>
+           <legend>Calculadora</legend>
+     
+           <input type="text" name="viewfinder" id="viewfinder" />
+     
+           <table id="calc">
+              <tr>
+             <td><input type="button" name="num9" class="num" value="9" onclick="calcNum(9)" /></td>
+             <td><input type="button" name="num8" class="num" value="8" onclick="calcNum(8)" /></td>
+             <td><input type="button" name="num7" class="num" value="7" onclick="calcNum(7)" /></td>
+             <td><input type="button" name="sum" class="oper" value="+" onclick="calcParse('sum')" /></td>
+          </tr>
+              <tr>
+             <td><input type="button" name="num6" class="num" value="6" onclick="calcNum(6)" /></td>
+             <td><input type="button" name="num5" class="num" value="5" onclick="calcNum(5)" /></td>
+             <td><input type="button" name="num4" class="num" value="4" onclick="calcNum(4)" /></td>
+             <td><input type="button" name="subtract" class="oper" value="-" onclick="calcParse('subtract')" /></td>
+          </tr>
+              <tr>
+             <td><input type="button" name="num3" class="num" value="3" onclick="calcNum(3)" /></td>
+             <td><input type="button" name="num2" class="num" value="2" onclick="calcNum(2)" /></td>
+             <td><input type="button" name="num1" class="num" value="1" onclick="calcNum(1)" /></td>
+             <td><input type="button" name="multiply" class="oper" value="*" onclick="calcParse('multiply')" /></td>
+          </tr>
+          <tr>
+             <td><input type="button" name="num0" class="num" value="0" onclick="calcNum(0)" /></td>
+             <td><input type="button" name="equal" class="num" value="=" onclick="calcParse('result')" /></td>
+             <td><input type="button" name="clean" class="num" value="AC" onclick="calcclean()" /></td>
+             <td><input type="button" name="divide" class="oper" value="/" onclick="calcParse('divide')" /></td>
+          </tr>
+           </table>
+        </fieldset>
+    </form>
+    <script src="script.js"></script> 
 </body>
 </html>

@@ -20,74 +20,39 @@ body{
     text-align: center;
 }
 
-#calculator{
-    width: 600px;
-    margin: auto;
-    padding: 2rem;
-    border: 0.5rem solid var(--shadow-color);
-    box-shadow: 1.2rem 1.2rem var(--bg-color);
-    border-radius: 2rem;
+#viewfinder {
+background-color: #bdffb4;
+text-align: right;
 }
 
-#viewfinder,
-#content{
-    display: flex;
-    height: 4rem;
-    justify-content: space-between;
-    align-items: center;
-    margin: 0.8rem auto;
+table {
+margin: 0 auto 0 auto;
 }
 
-.viewfinder{
-    border: 0.5rem solid var(--border-color);
-    box-shadow: 0.5rem 0.5rem var(--shadow-color);
-    background: var(--bg-color);
-    width: 75.2%;
-    height: 6rem;
-    margin-top: 2rem;
-    margin-bottom: 3rem;
+form fieldset {
+margin: 10px auto 10px auto;
+width: 40%;
+border: solid black 1px;
+padding: 3%;
+margin-bottom: 10px;
 }
 
-img{
-    width: 5rem;
-    margin-top: 0.8rem;
-    margin-right: 0.5rem;
+form input {
+width: 100%;
+border: solid #ccc 1px;
+font-size: 11px;
+margin-bottom: 10px;
 }
 
-#content{
-    height: auto;
-    margin-top: 2rem;
+form input.num {
+display: block;
+width: 24px;
+height: 24px;
 }
 
-
-#numbers{
-    width: 80%;
-    font-size: 4rem;
-    text-align: center;
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
-    border: 0.5rem solid var(--border-color);
-    box-shadow: 0.5rem 0.5rem var(--shadow-color); 
+form input.oper {
+display: block;
+width: 24px;
+height: 24px;
+background-color: #b2b2b2;
 }
-
-.number{
-    border: 0.3rem solid var(--border-color);
-}
-
-#operators{
-    font-size: 4rem;
-    text-align: center;
-    margin-left: 2rem;
-    display: flex;
-    flex-direction: column;
-    border: 0.5rem solid var(--border-color);
-    box-shadow: 0.5rem 0.5rem var(--shadow-color); 
-}
-
-.operator{
-    padding: 0 1rem;
-    border: 0.3rem solid var(--border-color);
-}
-
-
-
