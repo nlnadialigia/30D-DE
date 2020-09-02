@@ -1,0 +1,94 @@
+:root{
+    --border-size: 0.1rem solid gray;
+    --bg-color: #858383;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    max-width: 800px;
+}
+
+header{
+    background: black;
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 3rem;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    padding: 0.5rem;
+    border: 0.2rem solid gray;
+}
+
+main{
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 0.2rem solid gray;
+    border-top: none;
+}
+
+main .grupo,
+.total{
+    font-size: 1.5rem;
+    line-height: 2rem;
+    
+}
+
+p, .subtotal, .contas, .total{
+    text-transform: uppercase;
+    font-weight: bold;
+    border-bottom:var(--border-size);
+    border-top: var(--border-size);
+    padding: 0 0.5rem;
+}
+
+.subtotal{
+    text-transform: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total{
+    display: flex;
+    justify-content: space-between;
+    background: black;
+    color: white;
+}
+
+main .grupo .subtitle{
+    text-transform: none;
+}
+
+.contas{
+    display: flex;
+    justify-content: space-between;
+    font-weight: normal;
+    text-transform: none;
+}
+
+@media(min-width: 600px){
+    main{
+        flex-direction: inherit;
+        
+    }
+
+    .grupo{
+        border-right: var(--border-size);
+    }
+
+    div:first-child .total{
+        margin-top: 6.5545rem;
+    }
+}
+
+

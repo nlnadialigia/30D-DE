@@ -243,6 +243,13 @@ https://www.linkedin.com/pulse/contagem-regressiva-nadia-ligia
 
 [Projeto do dia 29](./dia-29-30)
 
+<br>
+
+<h1>🚀 Dia 30/30 - FIM 🚀</h1>
+
+https://www.linkedin.com/pulse/fim-nadia-ligia
+
+[Projeto do dia 30](./dia-30-30)
 
 <br>
 <br>
