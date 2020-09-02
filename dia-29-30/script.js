@@ -14,4 +14,3 @@ let downloadTimer = setInterval(function(){
    fireworks.style.display = "block"
   }
 }, 1000);
-
