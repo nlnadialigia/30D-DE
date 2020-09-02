@@ -235,6 +235,14 @@ https://www.linkedin.com/pulse/rel%25C3%25B3gio-nadia-ligia
 
 [Projeto do dia 28](./dia-28-30)
 
+<br>
+
+<h1>🚀 Dia 29/30 -  🚀</h1>
+
+
+
+[Projeto do dia 28](./dia-28-30)
+
 
 <br>
 <br>
